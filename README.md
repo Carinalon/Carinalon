@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Carina<br>Futura Front End!!<br><br>Bienvenido/a  a mi Github!</p>
+<p align="left">Mi nombre es Carina<br>Desarrolladora Front End!!<br><br>Bienvenido/a  a mi Github!</p>
 
 ###
 
